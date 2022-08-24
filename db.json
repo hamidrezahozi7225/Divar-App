@@ -1,0 +1,105 @@
+{
+  "product": [
+    {
+      "id": 2,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/803244.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "locationHome": "تهران-صادقیه-ساختمان پرواز",
+      "phoneNumber": "09357654321",
+      "location": "تهران",
+      "description": "هدفون بلوتوثی پیشرفته"
+    },
+    {
+      "id": 3,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/119677615.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "locationHome": "اهواز-خوزستان-ساختمان بزرگ",
+      "phoneNumber": "09278964393",
+      "location": "اهواز",
+      "description": "ساعت هوشمند زیبا"
+    },
+    {
+      "id": 4,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/114906411.jpg?x-oss-process=image/resize,h_1600/quality,q_80",
+      "locationHome": "یزد-تفت-ساختمان یاد",
+      "phoneNumber": "09126389517",
+      "location": "یزد",
+      "description": "عینک افتابی"
+    },
+    {
+      "id": 5,
+      "image": "https://petapixel.com/assets/uploads/2017/03/product1.jpeg",
+      "locationHome": "اصفهان-نقش جهان-ساختمان انفرادی",
+      "phoneNumber": "09362636766",
+      "location": "اصفهان",
+      "description": "کتوتی ورزشی"
+    },
+    {
+      "id": 6,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8q8Cf8lJDNz0BbakfKgZfMohxHJG4aTf4ww&usqp=CAU",
+      "locationHome": "شمال-رشت-ساختمان روتشیلد",
+      "phoneNumber": "09312156411",
+      "location": "رشت",
+      "description": "عطر زنانه"
+    },
+    {
+      "id": 7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTttYWizJBzdxf8QzdHWgXP_g9QQQEiJNLatQ&usqp=CAU",
+      "locationHome": "خراسان رضوی-مشهد-ساخمان ذوزنقه",
+      "phoneNumber": "09703736566",
+      "location": "مشهد",
+      "description": "گوشی آیفون"
+    },
+    {
+      "id": 8,
+      "image": "https://www.mobilerasa.com/wp-content/uploads/2021/09/nazi.jpg",
+      "locationHome": "تهران-ولیعصر-ساختمان بهشت",
+      "phoneNumber": "09124842464",
+      "location": "تهران",
+      "description": "ساعت هوشمند زنانه"
+    },
+    {
+      "id": 9,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/616e5bbd966209a40df5e474ff976e236097b1e3_1603276082.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "locationHome": "کرج-گوهردشت-ساختمان اماده باش",
+      "phoneNumber": "09254567892",
+      "location": "کرج",
+      "description": "دوربین عکاسی حرفه ای"
+    },
+    {
+      "id": 10,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Product_Photography.jpg/1200px-Product_Photography.jpg",
+      "locationHome": "یزد-اشکذر-ساختمان تونل",
+      "phoneNumber": "09335982677",
+      "location": "یزد",
+      "description": "شامپو نیوا"
+    },
+    {
+      "id": 11,
+      "image": "https://www.junglescout.com/wp-content/uploads/2021/01/product-photo-water-bottle-hero.png",
+      "locationHome": "تهران-قلهک-ساختمان 420",
+      "phoneNumber": "09124567890",
+      "location": "تهران",
+      "description": "قمقمه"
+    },
+    {
+      "image": "blob:http://localhost:3000/b705ced7-2a5f-40f4-8286-4a4521aeb52c",
+      "description": "ادکلن",
+      "location": "کرج",
+      "phoneNumber": "9356907225",
+      "id": 12
+    }
+  ],
+  "users": [
+    {
+      "Name": "hamid",
+      "Email": "hozihamidreza@gmail.com",
+      "Passwords": "12345",
+      "id": 1
+    },
+    {
+      "Name": "حمیدرضاحوضی",
+      "Email": "hozihamid@gmail.com",
+      "Passwords": "1234567",
+      "id": 2
+    }
+  ]
+}

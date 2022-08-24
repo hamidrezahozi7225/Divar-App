@@ -1,0 +1,23 @@
+.header {
+  height: 70px;
+  background-color: black;
+  color: wheat;
+  direction: rtl;
+  display: flex;
+  justify-content: space-between;
+}
+.header ul {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+.header a {
+  text-decoration: none;
+  color: white;
+  margin-right: 10px;
+  font-weight: bold;
+}
+.header a:hover {
+  color: gold;
+}

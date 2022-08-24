@@ -1,0 +1,24 @@
+.detailcart {
+  /* position: absolute;
+  left: 50%;
+  background-color: white;
+  transform: translate(-50%, 0);
+  width: 500px;
+  height: 300px;
+  border-radius: 20px;
+  padding: 10px; */
+  background-color: white;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.detailcart img {
+  width: 100%;
+  border-radius: 20px;
+  /* height: 100px;  */
+  padding-bottom: 10px;
+}

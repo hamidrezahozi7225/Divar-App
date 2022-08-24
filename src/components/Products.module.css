@@ -1,0 +1,9 @@
+.cart {
+  display: grid;
+  grid-gap: 30px;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  padding-bottom: 30px;
+}
+.cart img {
+  border-bottom: 1px solid gray;
+}
